@@ -1,0 +1,14 @@
+.demo {
+  font-size: 25px;
+  color:#333333;
+}
+.demo td:nth-child(1) {
+  color: #CE5937;
+  font-size: 15px;
+}
+.demo td {
+  vertical-align: top;  
+  border: 1px solid #ddd;
+  padding: 2px 10px;
+  vertical-align: middle;
+}
